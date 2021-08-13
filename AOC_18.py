@@ -10,7 +10,7 @@ def process_line(line):
 
 def calculte_line(processed_line):
     '''
-    get the processed line and returns th result of the operation
+    get the processed line and returns the result of the operation
     '''
     pass
 
